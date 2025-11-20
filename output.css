@@ -1624,7 +1624,7 @@ input:checked + .toggle-bg {
 
 .text-xl {
   font-size: 1.25rem;
-  line-height: 1.75rem;
+  line-height: 2rem;
 }
 
 .text-sm {
